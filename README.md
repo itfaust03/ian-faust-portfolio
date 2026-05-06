@@ -1,23 +1,24 @@
 # Ian Faust's Portfolio
 
-Collection of academic projects, presentations, media work, and research materials.
+Welcome to my portfolio. This repository includes academic projects, class presentations, written reports, and media work.
 
-## Featured Work
+## Projects
 
-### Research Project
-- Topic: Consumer behavior analysis
-- Format: PDF report + presentation
+### Class Reports
+- [Project Name](ENTR 3312 Final Project Document.pdf)  
+  Brief description of what the project was about.
 
-### Presentation Work
-- Marketing and communication presentations
-- Slide decks and recorded presentations
+### Presentations
+- [Big Budgets, Bigger Returns?](Big Budgets, Bigger Returns?.pptx)  
+  Brief description of the topic and what you presented.
 
-### Media Projects
-- Visual and multimedia assignments
+### Media Work
+- [Media Project Name](media/your-file-name)  
+  Brief description of the work.
 
-## Skills
+## Skills Highlighted
 - Research
+- Writing
 - Presentation design
 - Public speaking
-- Writing
-- Media editing
+- Media production
