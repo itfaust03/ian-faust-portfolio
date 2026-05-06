@@ -5,7 +5,7 @@ Welcome to my portfolio. This repository includes academic projects, class prese
 ## Projects
 
 ### Class Reports
-- [Project Name](ENTR 3312 Final Project Document.pdf)  
+- [3M Project](ENTR 3312 Final Project Document.pdf)  
   Brief description of what the project was about.
 
 ### Presentations
